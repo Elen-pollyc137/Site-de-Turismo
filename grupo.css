@@ -1,0 +1,247 @@
+.carousel-item {
+    height: 100vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  section {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+  }
+  
+  .lnr {
+    display: inline-block;
+    fill: currentColor;
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.05em;
+    stroke-width: 1;
+  }
+  
+  .services-icon {
+    margin-bottom: 20px;
+    font-size: 30px;
+  }
+  .bg-nav {
+    background-color: "#ff4500";
+}
+
+  
+  .quote-icon {
+    font-size: 40px;
+    margin-bottom: 20px;
+  }
+  .services-icon {
+      font-size: 60px;
+      margin-left: 2rem;
+  }
+  .img-fluid{
+    max-width: 100%;
+    height: 100%;
+
+
+  }
+  #cons { background:#181015 url( ./viagem.png) no-repeat; background-size: cover; min-height:400px; text-align: center; padding-top:100px; color:white; font-family:"Open sans", Helvetica, Arial; font-weight:300; }
+#cons.secondary { height:100px; min-height: 100px; padding-top:0px; }
+	#cons .lead { font-family:"Open sans", Helvetica, Arial; font-size:44px; margin-bottom:6px; color:white; line-height:1.15em; } 
+	#cons .tagline { color:rgba(255,255,255,0.75); margin-bottom:25px; }
+		#cons .tagline a { color:#fff; } 
+	#cons .btn { margin-bottom:10px;}
+	#cons .btn-default { text-shadow: none; background:transparent; color:rgba(255,255,255,.5); -webkit-box-shadow:inset 0px 0px 0px 3px rgba(255,255,255,.5); -moz-box-shadow:inset 0px 0px 0px 3px rgba(255,255,255,.5); box-shadow:inset 0px 0px 0px 3px rgba(255,255,255,.5); background: transparent; }
+		#cons .btn-default:hover,
+		#cons .btn-default:focus { color:rgba(255,255,255,.8); -webkit-box-shadow:inset 0px 0px 0px 3px rgba(255,255,255,.8); -moz-box-shadow:inset 0px 0px 0px 3px rgba(255,255,255,.8); box-shadow:inset 0px 0px 0px 3px rgba(255,255,255,.8); background: transparent; }
+		#cons .btn-default:active, 
+		#cons .btn-default.active { color:#fff; -webkit-box-shadow:inset 0px 0px 0px 3px #fff; -moz-box-shadow:inset 0px 0px 0px 3px #fff; box-shadow:inset 0px 0px 0px 3px #fff; background: transparent; }
+
+@media (max-width: 767px) {
+	#cons { min-height:420px; padding-top:100px; }
+	#cons .lead { font-size: 34px; }
+}
+.posts .posts-item img {
+  margin-left: 50px;
+}
+.posts.round .round-container img {
+  margin-left: 50px;
+}
+figure img {
+  border-radius: 100%;
+  width: 28rem;
+  height: 28rem;
+  margin-left: 5rem;
+}
+@media only screen and (max-width: 600px){
+  figure img {
+    border-radius: 100%;
+    width: 12rem;
+    height: 12rem;
+    margin-left: 8rem;
+    justify-content: center;
+   text-align: center;
+  }
+}
+.mar{
+  margin-right: 50rem;
+ 
+  height: 50px;
+ 
+ 
+}
+@media only screen and (max-width: 600px){
+  .texttitel{
+  
+    font-size: 50;
+    
+  
+  }
+}
+.textpost1{
+  font: outline;
+  font-style: initial;
+  font-weight: bold;
+  font-weight: 50px;
+}
+@media only screen and (min-width: 1200px){
+.texttitel{
+  
+  font-size: 50;
+  height: 10em;
+  position: relative; 
+  position: absolute;
+  top: 25%;
+  left: 5%;
+  margin-right: -5%;
+  justify-content: center;
+  text-align: center;
+  
+
+}}
+.texttitel1{
+  font-weight: bold;
+
+
+}
+.maigifoto{
+  position: relative; 
+ border: 50rem;
+ margin-left: 50px;
+ margin-right: 50px;
+ margin-top: 50px;
+}
+.confibutton{
+  border-radius: 100%;
+  position: center; 
+  margin-left: 520px;
+  margin-right: 500px;
+  width: 15rem;
+  height: 5rem;
+background-color: #ff4500;
+}
+@media only screen and (max-width: 300px){
+  .confibutton{
+    border-radius: 100%;
+    position: center; 
+    margin-left: 520px;
+    margin-right: 500px;
+    width: 15rem;
+    height: 5rem;
+  background-color: #ff4500;
+  }
+}
+.textbutton{
+  align-items: center;
+  position: center; 
+  margin-left: 50px;
+  font-weight: bold;
+  margin-top: 27px;
+  color: #fff;
+}
+
+.retangulo{
+  position: relative;
+  background-color: #ff4500;
+  height: 350px;
+  width: 1350px;
+
+}
+
+.container12 {
+  position: relative;
+}
+
+#image {
+  position: absolute;
+}
+.textret{
+  fill:#0a0303;
+  font-size:20;
+  font-family:YuGothic-Regular, Yu Gothic;
+  width:864;
+  height:1076; 
+}
+.redeso{
+  background-color: #ff4500;
+}
+.img-logo{
+  margin-left: -80px;
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+}
+.img-social{
+  width: 120px;
+  height: 60px;
+}
+.bg-footer{
+ background: #ff4500;
+ color:black;
+}
+.footer-text{
+  color:black;
+}
+.img-fluid2{
+  max-width: 100%;
+  height: 100%;
+
+
+}
+#cons2 { background:#181015 url( ./imaagepag2/viagem-perfeita.jpg) no-repeat; background-size: cover; min-height:400px; text-align: center; padding-top:100px; color:white; font-family:"Open sans", Helvetica, Arial; font-weight:300; }
+#cons2.secondary { height:100px; min-height: 100px; padding-top:0px; }
+#cons2 .lead { font-family:"Open sans", Helvetica, Arial; font-size:44px; margin-bottom:6px; color:white; line-height:1.15em; } 
+#cons2 .tagline { color:rgba(255,255,255,0.75); margin-bottom:25px; }
+  #cons2 .tagline a { color:#fff; } 
+#cons2 .btn { margin-bottom:10px;}
+#cons2 .btn-default { text-shadow: none; background:transparent; color:rgba(255,255,255,.5); -webkit-box-shadow:inset 0px 0px 0px 3px rgba(255,255,255,.5); -moz-box-shadow:inset 0px 0px 0px 3px rgba(255,255,255,.5); box-shadow:inset 0px 0px 0px 3px rgba(255,255,255,.5); background: transparent; }
+  #cons2 .btn-default:hover,
+  #cons2 .btn-default:focus { color:rgba(255,255,255,.8); -webkit-box-shadow:inset 0px 0px 0px 3px rgba(255,255,255,.8); -moz-box-shadow:inset 0px 0px 0px 3px rgba(255,255,255,.8); box-shadow:inset 0px 0px 0px 3px rgba(255,255,255,.8); background: transparent; }
+  #cons2 .btn-default:active, 
+  #cons2 .btn-default.active { color:#fff; -webkit-box-shadow:inset 0px 0px 0px 3px #fff; -moz-box-shadow:inset 0px 0px 0px 3px #fff; box-shadow:inset 0px 0px 0px 3px #fff; background: transparent; }
+
+@media (max-width: 767px) {
+#cons2 { min-height:420px; padding-top:100px; }
+#cons2 .lead { font-size: 34px; }
+}
+.cardtop{
+  margin-top: 10px;
+  
+  margin-right: 50px;
+  margin-left: 60px;
+}
+.pesquisa{
+color:#fff;
+  margin-left: 50px;
+ margin-top: 100px;
+ left: 20px;
+}
+.inputpesqui{
+  
+  width: 300px;
+  height: 40px;
+}
+.lecadastro{
+  font-size: 20 ;
+  font-style: bold;
+  color: black;
+}

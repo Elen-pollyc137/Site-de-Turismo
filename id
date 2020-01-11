@@ -1,0 +1,36 @@
+<div class="container12">
+    <svg class="retangulo " id="image"> 
+        <svg >
+          <text class="textret" font-size="20"><tspan x="150" y="76">COMPRE SUA VIAGEM</tspan>
+           <tspan x="150" y="110">Passagens</tspan> 
+            <tspan x="150" y="130">Hotéis</tspan>
+            <tspan x="150" y="150">Seguro Viagem</tspan>
+            <tspan x="150" y="170">Atividades</tspan>
+            <tspan x="150" y="190">Pacotes</tspan></text>
+         </svg>
+         <svg>
+            <text class="textret" font-size="20"><tspan x="400" y="76">COMPRE SUA VIAGEM</tspan>
+              <tspan x="400" y="100">Passagens</tspan>
+              <tspan x="400" y="120">Hotéis</tspan>
+              <tspan x="400" y="140">Seguro Viagem</tspan>
+              <tspan x="400" y="160">Atividades</tspan>
+              <tspan x="400" y="180">Pacotes</tspan></text>
+           </svg>
+           <svg>
+              <text class="textret" font-size="20"><tspan x="650" y="76">COMPRE SUA VIAGEM</tspan>
+                <tspan x="650" y="100">Passagens</tspan>
+                <tspan x="650" y="120">Hotéis</tspan>
+                <tspan x="650" y="140">Seguro Viagem</tspan>
+                <tspan x="650" y="160">Atividades</tspan>
+                <tspan x="650" y="180">Pacotes</tspan></text>
+             </svg>
+             <svg>
+                <text class="textret" font-size="20"><tspan x="900" y="76">COMPRE SUA VIAGEM</tspan>
+                  <tspan x="900" y="100">Passagens</tspan></text>
+               </svg>
+              
+        
+    </svg>
+ 
+
+</div>
